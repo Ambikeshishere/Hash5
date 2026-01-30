@@ -38,5 +38,5 @@ def md5_from_sheet1_to_sheet2(sheet_id):
     print("Data copied with original types preserved")
 
 md5_from_sheet1_to_sheet2(
-    sheet_id="Sheet ID "
+    sheet_id="Enter Sheet id Here"
 )
